@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Syncopate&display=swap');
+
+body {
+    font-family: 'Syncopate', serif;
+    padding-top: 60px;
+}
+
+nav {
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 128px;
+    margin: 0;
+}
+
+nav ul li {
+    display: block;
+    display: inline-block;
+    margin-right: 95px; 
+    font-size: 25px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+header h1 {
+    font-size: 70px;
+    padding-left: 128px;
+    padding-bottom: 0;
+    align-items: baseline;
+}
+
+header h1 {
+    border-bottom: 3px solid black; 
+    padding-left: 0;
+    padding-top: 0;
+    margin-right: 880px;
+}
